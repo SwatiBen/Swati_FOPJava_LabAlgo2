@@ -17,8 +17,6 @@ public class Driver_Notes {
 			numCurArray[i] = sc.nextInt();
 		}
 		
-		
-//		Sorting in descending order using Selection sort
 		SelectionSort objSelectionSort = new SelectionSort();
 		objSelectionSort.mySort(numCurArray);
 
