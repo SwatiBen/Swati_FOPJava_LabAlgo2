@@ -1,0 +1,9 @@
+Comments:
+Good effort Swati,
+-Pay-Money problem: Output as expected
+-Traveler problem: Arithmetic Exception not handled when Zero is entered as a denomination value. You can add a conditional statement when taking denomination values from the user or a try-catch block while calculating the payment approach.
+Package structure NOT followed.
+Suggestion:
+- Create Multiple Packages for Class Segregation.
+For eg: create a Package for the main/driver class which takes the input and creates objects and a package for the service class which contains the implementation of the functionality.
+-Use ctrl+i for indentation and ctrl+Shift+F for formatting
